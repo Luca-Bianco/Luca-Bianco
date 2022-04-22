@@ -11,7 +11,7 @@ Hi there, I'm Luca, Federico II computer science student! Here you can find repo
 <h2 align=center>Main Languages</h1>
 
 <!-- ![Alt text](./img/java.svg) -->
-<img src="./img/java.svg">
+<img width="100" src="./img/java.svg">
 
 
 <!--
