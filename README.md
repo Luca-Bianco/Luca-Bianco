@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
-
+<>
 <p align="center">
-  ![](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t1yn0oylbuavkmhltukuhwcgvhe905g66ontnyhq&rid=giphy.gif&ct=g)
+  <img src= "![](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t1yn0oylbuavkmhltukuhwcgvhe905g66ontnyhq&rid=giphy.gif&ct=g)">
 </p>
 
 Hi there, I'm Luca, Federico II computer science student! Here you can find repositories of my projects 😃
