@@ -21,7 +21,7 @@ Hi there, I'm Luca, Federico II computer science student! Here you can find repo
 </p>
 
 
-<h3 align= "center"> 📫 How to reach me: ... </h3>
+<h1 align= "center"> 📫 How to reach me: ... </h1>
 <p> email: luca.bianco.71.lb@gmail.com </p>
 
 <!--
