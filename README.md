@@ -11,12 +11,15 @@ Hi there, I'm Luca, Federico II computer science student! Here you can find repo
 <h2 align=center>Main Languages</h1>
 
 <!-- ![Alt text](./img/java.svg) -->
+<p>
 <img width="100" src="./img/java.svg">
-<img width="100" src="./img/java.svg">
-<img width="100" src="./img/java.svg">
-<img width="100" src="./img/java.svg">
-<img width="100" src="./img/java.svg">
-<img width="100" src="./img/java.svg">
+<img width="100" src="./img/android.svg">
+<img width="100" src="./img/aws.svg">
+<img width="100" src="./img/azure.svg">
+<img width="100" src="./img/pg.svg">
+<img width="100" src="./img/c.svg">
+<img width="100" src="./img/cpp.svg">
+</p>
 
 
 <!--
