@@ -5,6 +5,10 @@
   <img src= "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t1yn0oylbuavkmhltukuhwcgvhe905g66ontnyhq&rid=giphy.gif&ct=g">
 </p>
 
+<p align="center">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
+
 Hi there, I'm Luca, Federico II computer science student! Here you can find repositories of my projects 😃
 
 - 🔭 I’m currently working on C server and android client for a potholes app.
