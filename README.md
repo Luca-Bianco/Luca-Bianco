@@ -8,7 +8,7 @@ Hi there, I'm Luca, Federico II computer science student! Here you can find repo
 
 - 🔭 I’m currently working on C server and android client for a potholes app.
 
-<h2 align=center>Main Languages</h1>
+<h1 align=center>Main Languages</h1>
 
 <p>
 <img width="100" src="./img/java.svg">
