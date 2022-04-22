@@ -12,6 +12,11 @@ Hi there, I'm Luca, Federico II computer science student! Here you can find repo
 
 <!-- ![Alt text](./img/java.svg) -->
 <img width="100" src="./img/java.svg">
+<img width="100" src="./img/java.svg">
+<img width="100" src="./img/java.svg">
+<img width="100" src="./img/java.svg">
+<img width="100" src="./img/java.svg">
+<img width="100" src="./img/java.svg">
 
 
 <!--
