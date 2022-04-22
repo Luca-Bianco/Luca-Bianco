@@ -1,9 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
 Hi there, I'm Luca, Federico II computer science student! Here you can find repositories of my projects 😃
 
 - 🔭 I’m currently working on C server and android client for a potholes app.
-
-<h1 align="center"> Hi there </h1>
 
 <!--
 **Luca-Bianco/Luca-Bianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
