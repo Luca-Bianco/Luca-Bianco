@@ -22,6 +22,9 @@ Hi there, I'm Luca, Federico II computer science student! Here you can find repo
 </p>
 
 
+<h3 align= "center"> 📫 How to reach me: ... </h3>
+<p> email: luca.bianco.71.lb@gmail.com </p>
+
 <!--
 **Luca-Bianco/Luca-Bianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
