@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
+![](https://giphy.com/gifs/KeepCoding-geek-developer-dev-xbLZjyMNQqEpTKjkSm)
+
+
 Hi there, I'm Luca, Federico II computer science student! Here you can find repositories of my projects 😃
 
 - 🔭 I’m currently working on C server and android client for a potholes app.
