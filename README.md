@@ -6,7 +6,7 @@
 
 Hi there, I'm Luca, Federico II computer science student! Here you can find repositories of my projects 😃
 
-- 🔭 I’m currently working on C server and android client for a potholes app.
+- 🔭 I recently worked on C server and android client for a potholes app.
 
 <h1 align=center>Main Languages</h1>
 
