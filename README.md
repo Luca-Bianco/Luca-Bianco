@@ -6,7 +6,7 @@
 
 Hi there, I'm Luca, computer science student! Here you can find repositories of my projects 😃
 
-- 🔭 I recently worked on a Recommendation System based on Neural Embeddings for activities to do during the rechargne of electric vehicles.
+- 🔭 I recently worked on a Recommendation System based on Neural Embeddings for activities to do during the recharge of electric vehicles.
 
 <h1 align=center>Main Languages</h1>
 
